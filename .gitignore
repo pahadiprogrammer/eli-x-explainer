@@ -8,3 +8,5 @@
 # Generated explainer output (users generate these; not part of the skill)
 *-eli-x.html
 *-walkthrough.html
+# ...but keep the curated demos under examples/ tracked
+!examples/**

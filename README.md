@@ -6,6 +6,13 @@ serves a child, a teammate, and a domain expert without changing a single fact.
 
 > The facts stay identical across every level and format. Only the vocabulary, depth, and presentation change.
 
+## Demo
+Try the ready-made sample — **[`examples/sample-eli-x.html`](examples/sample-eli-x.html)** ("What is caching?"): download it, open in any browser, and drag the slider from **ELI5 → Expert**.
+
+<!-- After you capture a screen recording of the slider, save it as assets/demo.gif and uncomment:
+![ELI-X slider demo](assets/demo.gif)
+-->
+
 ## The five levels
 `ELI5 → ELI12 → General → ASD-STE100 → Expert`
 
@@ -52,6 +59,8 @@ eli-x-explainer/
 ├── SKILL.md                 # the skill (workflow, rules, template, examples)
 ├── references/
 │   └── ste-rules.md         # ASD-STE100 rules + examples (CC BY-SA 4.0)
+├── examples/
+│   └── sample-eli-x.html    # ready-made demo ("What is caching?")
 ├── README.md
 └── LICENSE                  # MIT
 ```
