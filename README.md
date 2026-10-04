@@ -9,6 +9,8 @@ serves a child, a teammate, and a domain expert without changing a single fact.
 ## Demo
 Try the ready-made sample — **[`examples/sample-eli-x.html`](examples/sample-eli-x.html)** ("What is caching?"): download it, open in any browser, and drag the slider from **ELI5 → Expert**.
 
+▶ **[View it live](https://htmlpreview.github.io/?https://github.com/pahadiprogrammer/eli-x-explainer/blob/main/examples/sample-eli-x.html)** (rendered via htmlpreview.github.io — the page is self-contained, so it works there).
+
 <!-- After you capture a screen recording of the slider, save it as assets/demo.gif and uncomment:
 ![ELI-X slider demo](assets/demo.gif)
 -->
