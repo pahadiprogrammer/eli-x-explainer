@@ -35,8 +35,9 @@ Try the ready-made sample — **[`examples/sample-eli-x.html`](examples/sample-e
 - **Real ASD-STE100** — the STE level follows the actual STE rules, not just shortened prose.
 
 ## Install
-Copy the skill into your Kiro skills directory:
+> **Note:** The paths below are for the **Kiro** agent. The skill itself (a `SKILL.md` with YAML frontmatter + `references/`) is harness-agnostic — if you use a different agent harness (Claude Code, Cursor, Codex, MeshClaw, etc.), copy the skill into **that harness's skills/context directory** instead, per its own docs.
 
+**Kiro:**
 ```bash
 # user-wide (all workspaces)
 cp -R eli-x-explainer ~/.kiro/skills/
@@ -69,4 +70,3 @@ eli-x-explainer/
 - **Code / skill content:** [MIT](LICENSE) © 2026 pahadiprogrammer.
 - **`references/ste-rules.md`:** adapted from [Wikipedia, "Simplified Technical English"](https://en.wikipedia.org/wiki/Simplified_Technical_English), licensed **CC BY-SA 4.0** — that file carries CC BY-SA 4.0 (share-alike) and retains attribution.
 - **ASD-STE100** is **© ASD** (AeroSpace and Defence Industries Association of Europe) and a registered trademark. This repo summarizes the rules in its own words and does **not** reproduce the ASD-STE100 dictionary.
-- The before→after example format was inspired by the public [`danyuchn/asd-ste100-skill`](https://github.com/danyuchn/asd-ste100-skill) repo.

@@ -195,4 +195,3 @@ Standard STE illustrations (adapted from Wikipedia, CC BY-SA 4.0; full list + at
 ## Reference & attribution
 - **ASD-STE100** = ASD Simplified Technical English Specification — a controlled language (restricted grammar + ~900 approved words). Current edition: Issue 9, Jan 2025 (53 rules). The standard is **© ASD** and a registered trademark; do **not** reproduce its dictionary.
 - The STE **rules and canonical examples** in this skill are adapted from **Wikipedia, "Simplified Technical English"** (https://en.wikipedia.org/wiki/Simplified_Technical_English), licensed **CC BY-SA 4.0**. The attributed extract lives in `references/ste-rules.md`; the share-alike terms apply to that STE-derived content.
-- The before→after *example format* was inspired by the public `danyuchn/asd-ste100-skill` repo (verify its license before redistributing).
